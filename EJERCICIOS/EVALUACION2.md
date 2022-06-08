@@ -4,21 +4,38 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
+ SELECT
+ INSERT
+ UPDATE
+ DELETE
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
-
+CHAR
+VARCHAR
+INT
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+Delete es una operación DML, es un borrado selectivo si se ocupa la sentencia WHERE y va borrando linea por linea la información.
+
+TRUNCATE es una operación DDL, elimimina todo el contenido de la tabla de forma rápida
+
+Ambas  dejan la estructura de la tabla.
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+
+Es una restricción que se puede poner a los campos para que no se repita la información
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
+ambas son cadenas de caracteres que se les define una lóngitud, pero en el caso de varchar si no se ocupan todos los caracteres definidos, solamente almacena los que contienen caracter y CHAR aunque tenga espacios sin datos aun así los almacena.
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
-
+Structured Query Language, es un lenguaje estandar e interactivo de acceso a bases de datos relacionales, permitiendo realizar consultas para recuperar datos de manera sencilla.
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
+Es un software editor de datos MySQL
 
 ## Práctica 5.
 ### Gestores de base de datos
