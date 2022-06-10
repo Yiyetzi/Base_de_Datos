@@ -45,10 +45,19 @@ productos. (valor 4.5)
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
+![image](https://user-images.githubusercontent.com/101668305/173106258-21f309f0-1f20-4a43-a1ba-a3179d1c20cd.png)
+
+![image](https://user-images.githubusercontent.com/101668305/173106692-0e98d861-af44-49f2-add9-7ead32dd9d46.png)
 
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
+
+![image](https://user-images.githubusercontent.com/101668305/173110429-b04d11ff-15fb-4ff1-a7bb-0abefc8481fe.png)
+![image](https://user-images.githubusercontent.com/101668305/173110495-662893b7-ae04-4606-bd76-6a0d2eb25b74.png)
+
+![image](https://user-images.githubusercontent.com/101668305/173110734-eaca4b3d-ebb9-4cd5-9596-80a785b54717.png)
+![image](https://user-images.githubusercontent.com/101668305/173110792-1214c1fb-fed4-42a1-b0d2-bf6f79d7859b.png)
 
